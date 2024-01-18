@@ -1,0 +1,909 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\css\\all.css",
+      "PackagePath": "staticwebassets\\theme\\assets\\css\\all.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\theme\\assets\\css\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\css\\aos.css",
+      "PackagePath": "staticwebassets\\theme\\assets\\css\\aos.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\theme\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\theme\\assets\\css\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\css\\fontawesome-all.min.css",
+      "PackagePath": "staticwebassets\\theme\\assets\\css\\fontawesome-all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\css\\lightslider.min.css",
+      "PackagePath": "staticwebassets\\theme\\assets\\css\\lightslider.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\theme\\assets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\theme\\assets\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\theme\\assets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\css\\price_rangs.css",
+      "PackagePath": "staticwebassets\\theme\\assets\\css\\price_rangs.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\css\\slick-theme.min.css",
+      "PackagePath": "staticwebassets\\theme\\assets\\css\\slick-theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\css\\slick.css",
+      "PackagePath": "staticwebassets\\theme\\assets\\css\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\css\\slick.min.css",
+      "PackagePath": "staticwebassets\\theme\\assets\\css\\slick.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\css\\slicknav.css",
+      "PackagePath": "staticwebassets\\theme\\assets\\css\\slicknav.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\theme\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\css\\style.map",
+      "PackagePath": "staticwebassets\\theme\\assets\\css\\style.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\css\\swiper.min.css",
+      "PackagePath": "staticwebassets\\theme\\assets\\css\\swiper.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\theme\\assets\\css\\themify-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\fonts\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\theme\\assets\\fonts\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\fonts\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\theme\\assets\\fonts\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\fonts\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\theme\\assets\\fonts\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\theme\\assets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\fonts\\Flaticon.woff2",
+      "PackagePath": "staticwebassets\\theme\\assets\\fonts\\Flaticon.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\fonts\\_flaticon.scss",
+      "PackagePath": "staticwebassets\\theme\\assets\\fonts\\_flaticon.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\fonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\theme\\assets\\fonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\fonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\theme\\assets\\fonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\theme\\assets\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\fonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\theme\\assets\\fonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\theme\\assets\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\fonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\theme\\assets\\fonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\fonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\theme\\assets\\fonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\theme\\assets\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\fonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\theme\\assets\\fonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\theme\\assets\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\fonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\theme\\assets\\fonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\fonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\theme\\assets\\fonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\theme\\assets\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\fonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\theme\\assets\\fonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\theme\\assets\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\fonts\\flaticon.css",
+      "PackagePath": "staticwebassets\\theme\\assets\\fonts\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\fonts\\flaticon.html",
+      "PackagePath": "staticwebassets\\theme\\assets\\fonts\\flaticon.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\theme\\assets\\fonts\\themify.eot"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\theme\\assets\\fonts\\themify.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\theme\\assets\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\theme\\assets\\fonts\\themify.woff"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\gallery\\Chair1.jpg",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\gallery\\Chair1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\gallery\\Chair2.jpg",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\gallery\\Chair2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\gallery\\Chair3.jpg",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\gallery\\Chair3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\gallery\\Chair4.jpg",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\gallery\\Chair4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\gallery\\Chair5.jpg",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\gallery\\Chair5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\gallery\\Chair6.jpg",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\gallery\\Chair6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\gallery\\Chair7.jpg",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\gallery\\Chair7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\gallery\\Chair8.jpg",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\gallery\\Chair8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\gallery\\Console1.jpg",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\gallery\\Console1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\gallery\\Console2.jpg",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\gallery\\Console2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\gallery\\Console3v.jpg",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\gallery\\Console3v.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\gallery\\Console4v.jpg",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\gallery\\Console4v.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\gallery\\Console5.jpg",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\gallery\\Console5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\gallery\\Console6.jpg",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\gallery\\Console6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\gallery\\Console7.jpg",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\gallery\\Console7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\gallery\\Headset1v.jpg",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\gallery\\Headset1v.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\gallery\\Headset2.jpg",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\gallery\\Headset2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\gallery\\Headset3.jpg",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\gallery\\Headset3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\gallery\\Headset4.jpg",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\gallery\\Headset4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\gallery\\Headset5.jpg",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\gallery\\Headset5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\gallery\\Headset6.jpg",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\gallery\\Headset6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\gallery\\Headset7.jpg",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\gallery\\Headset7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\gallery\\Joystick1.jpg",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\gallery\\Joystick1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\gallery\\Joystick2v.jpg",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\gallery\\Joystick2v.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\gallery\\Joystick3.jpg",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\gallery\\Joystick3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\gallery\\Joystick4.jpg",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\gallery\\Joystick4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\gallery\\Joystick5v.jpg",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\gallery\\Joystick5v.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\gallery\\Joystick6.jpg",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\gallery\\Joystick6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\gallery\\Joystick7.jpg",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\gallery\\Joystick7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\gallery\\Laptop1v.jpg",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\gallery\\Laptop1v.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\gallery\\Laptop2v.jpg",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\gallery\\Laptop2v.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\gallery\\Laptop3v.jpg",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\gallery\\Laptop3v.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\gallery\\Laptop4v.jpg",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\gallery\\Laptop4v.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\gallery\\Laptop5v.jpg",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\gallery\\Laptop5v.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\gallery\\Laptop6v.jpg",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\gallery\\Laptop6v.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\gallery\\Laptop7v.jpg",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\gallery\\Laptop7v.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\gallery\\Mouse1.jpg",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\gallery\\Mouse1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\gallery\\Mouse2m.jpg",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\gallery\\Mouse2m.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\gallery\\Mouse3.jpg",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\gallery\\Mouse3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\gallery\\Mouse4.jpg",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\gallery\\Mouse4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\gallery\\Mouse5m .jpg",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\gallery\\Mouse5m .jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\gallery\\Mouse6.jpg",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\gallery\\Mouse6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\gallery\\Mouse7v.jpg",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\gallery\\Mouse7v.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\gallery\\acer.jpg",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\gallery\\acer.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\gallery\\badasheng.jpg",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\gallery\\badasheng.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\gallery\\joystick.jpg",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\gallery\\joystick.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\gallery\\killabee.jpg",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\gallery\\killabee.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\gallery\\mouse.jpg",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\gallery\\mouse.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\gallery\\ps5.jpg",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\gallery\\ps5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\gallery\\vidoe_more.png",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\gallery\\vidoe_more.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\hero\\about_hero.png",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\hero\\about_hero.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\home\\Choice1.png",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\home\\Choice1.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\home\\Choice2.png",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\home\\Choice2.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\home\\GamingX-logo.png",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\home\\GamingX-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\home\\NewProduct1.jpg",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\home\\NewProduct1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\home\\NewProduct2.jpg",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\home\\NewProduct2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\home\\NewProduct3.jpg",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\home\\NewProduct3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\home\\banner1.jpeg",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\home\\banner1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\home\\banner2.jpeg",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\home\\banner2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\home\\banner3.jpeg",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\home\\banner3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\home\\banner4.jpeg",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\home\\banner4.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\home\\banner5.jpeg",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\home\\banner5.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\home\\blade.jpeg",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\home\\blade.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\home\\gallery1.jpg",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\home\\gallery1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\home\\gallery2.jpg",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\home\\gallery2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\home\\gallery3.jpg",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\home\\gallery3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\home\\gallery4.png",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\home\\gallery4.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\home\\logo.png",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\home\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\img\\logo\\logo.jpg",
+      "PackagePath": "staticwebassets\\theme\\assets\\img\\logo\\logo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\js\\animated.headline.js",
+      "PackagePath": "staticwebassets\\theme\\assets\\js\\animated.headline.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\js\\aos.js",
+      "PackagePath": "staticwebassets\\theme\\assets\\js\\aos.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\theme\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\js\\cells-by-column.js",
+      "PackagePath": "staticwebassets\\theme\\assets\\js\\cells-by-column.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\js\\contact.js",
+      "PackagePath": "staticwebassets\\theme\\assets\\js\\contact.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\js\\gmaps.min.js",
+      "PackagePath": "staticwebassets\\theme\\assets\\js\\gmaps.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\js\\jquery-1.12.1.min.js",
+      "PackagePath": "staticwebassets\\theme\\assets\\js\\jquery-1.12.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\js\\jquery.ajaxchimp.min.js",
+      "PackagePath": "staticwebassets\\theme\\assets\\js\\jquery.ajaxchimp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\js\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\theme\\assets\\js\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\js\\jquery.downCount.js",
+      "PackagePath": "staticwebassets\\theme\\assets\\js\\jquery.downCount.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\js\\jquery.easing.min.js",
+      "PackagePath": "staticwebassets\\theme\\assets\\js\\jquery.easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\js\\jquery.form.js",
+      "PackagePath": "staticwebassets\\theme\\assets\\js\\jquery.form.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\js\\jquery.magnific-popup.js",
+      "PackagePath": "staticwebassets\\theme\\assets\\js\\jquery.magnific-popup.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\theme\\assets\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\js\\jquery.paroller.min.js",
+      "PackagePath": "staticwebassets\\theme\\assets\\js\\jquery.paroller.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\js\\jquery.scrollUp.min.js",
+      "PackagePath": "staticwebassets\\theme\\assets\\js\\jquery.scrollUp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\js\\jquery.slicknav.min.js",
+      "PackagePath": "staticwebassets\\theme\\assets\\js\\jquery.slicknav.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\js\\jquery.sticky.js",
+      "PackagePath": "staticwebassets\\theme\\assets\\js\\jquery.sticky.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\js\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\theme\\assets\\js\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\js\\lightslider.min.js",
+      "PackagePath": "staticwebassets\\theme\\assets\\js\\lightslider.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\js\\mail-script.js",
+      "PackagePath": "staticwebassets\\theme\\assets\\js\\mail-script.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\theme\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\js\\mixitup.min.js",
+      "PackagePath": "staticwebassets\\theme\\assets\\js\\mixitup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\js\\one-page-nav-min.js",
+      "PackagePath": "staticwebassets\\theme\\assets\\js\\one-page-nav-min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\theme\\assets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\theme\\assets\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\theme\\assets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\js\\price_rangs.js",
+      "PackagePath": "staticwebassets\\theme\\assets\\js\\price_rangs.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\theme\\assets\\js\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\js\\stellar.js",
+      "PackagePath": "staticwebassets\\theme\\assets\\js\\stellar.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\js\\swiper.jquery.js",
+      "PackagePath": "staticwebassets\\theme\\assets\\js\\swiper.jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\js\\swiper.min.js",
+      "PackagePath": "staticwebassets\\theme\\assets\\js\\swiper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\js\\swiper_custom.js",
+      "PackagePath": "staticwebassets\\theme\\assets\\js\\swiper_custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\js\\theme.js",
+      "PackagePath": "staticwebassets\\theme\\assets\\js\\theme.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\js\\vendor\\jquery-1.12.4.min.js",
+      "PackagePath": "staticwebassets\\theme\\assets\\js\\vendor\\jquery-1.12.4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\js\\vendor\\modernizr-3.5.0.min.js",
+      "PackagePath": "staticwebassets\\theme\\assets\\js\\vendor\\modernizr-3.5.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\theme\\assets\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\theme\\assets\\js\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\scss\\_about_us.scss",
+      "PackagePath": "staticwebassets\\theme\\assets\\scss\\_about_us.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\scss\\_banner.scss",
+      "PackagePath": "staticwebassets\\theme\\assets\\scss\\_banner.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\scss\\_best-product.scss",
+      "PackagePath": "staticwebassets\\theme\\assets\\scss\\_best-product.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\scss\\_best_seller.scss",
+      "PackagePath": "staticwebassets\\theme\\assets\\scss\\_best_seller.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\scss\\_blog.scss",
+      "PackagePath": "staticwebassets\\theme\\assets\\scss\\_blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\scss\\_blog_page.scss",
+      "PackagePath": "staticwebassets\\theme\\assets\\scss\\_blog_page.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\scss\\_blog_part.scss",
+      "PackagePath": "staticwebassets\\theme\\assets\\scss\\_blog_part.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\scss\\_bradcam.scss",
+      "PackagePath": "staticwebassets\\theme\\assets\\scss\\_bradcam.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\theme\\assets\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\scss\\_button.scss",
+      "PackagePath": "staticwebassets\\theme\\assets\\scss\\_button.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\scss\\_category.scss",
+      "PackagePath": "staticwebassets\\theme\\assets\\scss\\_category.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\scss\\_client_logo.scss",
+      "PackagePath": "staticwebassets\\theme\\assets\\scss\\_client_logo.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\scss\\_client_review.scss",
+      "PackagePath": "staticwebassets\\theme\\assets\\scss\\_client_review.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\scss\\_color.scss",
+      "PackagePath": "staticwebassets\\theme\\assets\\scss\\_color.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\scss\\_common.scss",
+      "PackagePath": "staticwebassets\\theme\\assets\\scss\\_common.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\scss\\_confirmation_part.scss",
+      "PackagePath": "staticwebassets\\theme\\assets\\scss\\_confirmation_part.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\scss\\_contact.scss",
+      "PackagePath": "staticwebassets\\theme\\assets\\scss\\_contact.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\scss\\_copyright_part.scss",
+      "PackagePath": "staticwebassets\\theme\\assets\\scss\\_copyright_part.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\scss\\_cource_details.scss",
+      "PackagePath": "staticwebassets\\theme\\assets\\scss\\_cource_details.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\scss\\_cta_part.scss",
+      "PackagePath": "staticwebassets\\theme\\assets\\scss\\_cta_part.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\scss\\_elements.scss",
+      "PackagePath": "staticwebassets\\theme\\assets\\scss\\_elements.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\scss\\_extend.scss",
+      "PackagePath": "staticwebassets\\theme\\assets\\scss\\_extend.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\scss\\_feature_part.scss",
+      "PackagePath": "staticwebassets\\theme\\assets\\scss\\_feature_part.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\theme\\assets\\scss\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\scss\\_gallery.scss",
+      "PackagePath": "staticwebassets\\theme\\assets\\scss\\_gallery.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\scss\\_h1-hero.scss",
+      "PackagePath": "staticwebassets\\theme\\assets\\scss\\_h1-hero.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\scss\\_headerMenu.scss",
+      "PackagePath": "staticwebassets\\theme\\assets\\scss\\_headerMenu.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\scss\\_instagram_photo.scss",
+      "PackagePath": "staticwebassets\\theme\\assets\\scss\\_instagram_photo.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\scss\\_latest_products.scss",
+      "PackagePath": "staticwebassets\\theme\\assets\\scss\\_latest_products.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\theme\\assets\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\scss\\_new-product.scss",
+      "PackagePath": "staticwebassets\\theme\\assets\\scss\\_new-product.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\scss\\_new_arrival.scss",
+      "PackagePath": "staticwebassets\\theme\\assets\\scss\\_new_arrival.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\scss\\_our_offer.scss",
+      "PackagePath": "staticwebassets\\theme\\assets\\scss\\_our_offer.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\scss\\_overlay.scss",
+      "PackagePath": "staticwebassets\\theme\\assets\\scss\\_overlay.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\scss\\_popular-items.scss",
+      "PackagePath": "staticwebassets\\theme\\assets\\scss\\_popular-items.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\scss\\_product.scss",
+      "PackagePath": "staticwebassets\\theme\\assets\\scss\\_product.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\scss\\_product_list.scss",
+      "PackagePath": "staticwebassets\\theme\\assets\\scss\\_product_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\scss\\_recent.scss",
+      "PackagePath": "staticwebassets\\theme\\assets\\scss\\_recent.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\scss\\_review.scss",
+      "PackagePath": "staticwebassets\\theme\\assets\\scss\\_review.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\scss\\_services.scss",
+      "PackagePath": "staticwebassets\\theme\\assets\\scss\\_services.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\scss\\_shipping_details.scss",
+      "PackagePath": "staticwebassets\\theme\\assets\\scss\\_shipping_details.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\scss\\_shop-method.scss",
+      "PackagePath": "staticwebassets\\theme\\assets\\scss\\_shop-method.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\scss\\_single_blog.scss",
+      "PackagePath": "staticwebassets\\theme\\assets\\scss\\_single_blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\scss\\_single_product.scss",
+      "PackagePath": "staticwebassets\\theme\\assets\\scss\\_single_product.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\scss\\_special_cource.scss",
+      "PackagePath": "staticwebassets\\theme\\assets\\scss\\_special_cource.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\scss\\_subscribe_part.scss",
+      "PackagePath": "staticwebassets\\theme\\assets\\scss\\_subscribe_part.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\scss\\_team.scss",
+      "PackagePath": "staticwebassets\\theme\\assets\\scss\\_team.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\scss\\_testimonial.scss",
+      "PackagePath": "staticwebassets\\theme\\assets\\scss\\_testimonial.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\scss\\_trending_items.scss",
+      "PackagePath": "staticwebassets\\theme\\assets\\scss\\_trending_items.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\theme\\assets\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\scss\\_video_area.scss",
+      "PackagePath": "staticwebassets\\theme\\assets\\scss\\_video_area.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\scss\\_view-list-grid.scss",
+      "PackagePath": "staticwebassets\\theme\\assets\\scss\\_view-list-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\theme\\assets\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\theme\\assets\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\theme\\assets\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\theme\\assets\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\theme\\assets\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\theme\\assets\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\theme\\assets\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\theme\\assets\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\theme\\assets\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\theme\\assets\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\theme\\assets\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\theme\\assets\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\theme\\assets\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\theme\\assets\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\theme\\assets\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\OneDrive - ubt-uni.net\\Desktop\\Online-Shop-.NET-Core--master\\Online-Shop\\wwwroot\\theme\\assets\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\theme\\assets\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Online-Shop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Online-Shop.props",
+      "PackagePath": "build\\Online-Shop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Online-Shop.props",
+      "PackagePath": "buildMultiTargeting\\Online-Shop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Online-Shop.props",
+      "PackagePath": "buildTransitive\\Online-Shop.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
